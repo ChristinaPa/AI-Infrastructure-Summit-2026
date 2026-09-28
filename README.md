@@ -1,6 +1,6 @@
 # AI Infrastructure Summit 2026
 
-Session materials for the **AI Infrastructure Summit 2026**.
+Session materials for the [AI Infrastructure Summit 2026](https://www.we-conect.com/events/ai-infrastructure-summit-2026).
 
 ## AI Landing Zones in Azure
 
